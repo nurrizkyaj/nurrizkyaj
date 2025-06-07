@@ -1,4 +1,4 @@
-# 🏂 Nurrizky Arum Jatmiko WOK THE TOK
+# 🏂 Nurrizky Arum Jatmiko
 
 **`AI & Data Enthusiast`**
 
