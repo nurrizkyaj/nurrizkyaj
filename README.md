@@ -1,6 +1,6 @@
 # 🏂 Nurrizky Arum Jatmiko
 
-**`Code Wanderer | AI & Data Enthusiast`**
+**`AI & Data Enthusiast`**
 
 <div align="center">
 <img src="banner.gif" alt="Banner" style="width: 100%" />
