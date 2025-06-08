@@ -38,7 +38,7 @@ An AI-powered application that predicts signs of depression from user input usin
 
 **Dev Certification for Machine Learning with TensorFlow**  
 [🔗 Verifikasi Sertifikat](https://dev.id/certificate/verify/R1VG1ZQW2M)
-![Sertifikat DCML](./path/to/certificate-image.png)
+![Sertifikat DCML](R1VG1ZQW2M.jpg)
 
 
 ---
