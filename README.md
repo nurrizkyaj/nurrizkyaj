@@ -43,10 +43,10 @@ An AI-powered application that predicts signs of depression from user input usin
 
 ## 📫 Contact
 
-- 📧 Email: [nurrizkyaj@gmail.com](mailto:nurrizkyaj@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/nurrizkyaj](https://linkedin.com/in/nurrizkyaj)
+[📧 Email](mailto:nurrizkyaj.home@gmail.com)  
+[🔗 LinkedIn](https://linkedin.com/in/nurrizkyaj)
 
 ---
 
-**Bilingual | 🇮🇩 Bahasa Indonesia & 🇬🇧 English**  
+**🇮🇩 Indonesia & 🇺🇸 English**  
 _I'm open to collaborations, projects, and professional opportunities._
