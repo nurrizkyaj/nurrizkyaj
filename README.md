@@ -1,4 +1,4 @@
-# 🏂 Nurrizky Arum Jatmiko
+# Nurrizky Arum Jatmiko
 
 **AI/ML Engineer | Data Scientist | Data Analyst**
 
