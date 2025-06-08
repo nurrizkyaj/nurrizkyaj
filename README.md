@@ -38,16 +38,11 @@ An AI-powered application that predicts signs of depression from user input usin
 
 **Dev Certification for Machine Learning with TensorFlow**  
 [🔗 Verifikasi Sertifikat](https://dev.id/certificate/verify/R1VG1ZQW2M)
-
----
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-nurrizkyaj.home@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurrizkyaj.home@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nurrizkyaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurrizkyaj)
+![Sertifikat DCML](./path/to/certificate-image.png)
 
 
 ---
+
 
 **🇮🇩 Indonesia & 🇺🇸 English**  
 _I'm open to collaborations, projects, and professional opportunities._
