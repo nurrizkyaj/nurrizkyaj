@@ -1,7 +1,7 @@
 **AI/ML Engineer | Data Scientist | Data Analyst**
 
 <div align="center">
-  <img src="cover.png" alt="Banner" style="width: 100%" />
+  <img src="cover.jpeg" alt="Banner" style="width: 100%" />
 </div>
 
 ---
