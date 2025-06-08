@@ -1,5 +1,3 @@
-# Nurrizky Arum Jatmiko
-
 **AI/ML Engineer | Data Scientist | Data Analyst**
 
 <div align="center">
