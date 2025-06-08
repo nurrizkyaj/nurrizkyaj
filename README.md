@@ -8,8 +8,6 @@
 
 From ground-up projects to self-driven explorations, I believe every step in this journey is an opportunity to learn something new. Whether it’s experimenting with cutting-edge ideas or mastering the fundamentals, I’m committed to turning curiosity into impact.
 
-💼 **Open to work** | 💡 **Personal Projects & Research** | 🎯 **Always Learning**
-
 ---
 
 ## 🚀 Featured Project
