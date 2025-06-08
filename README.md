@@ -43,8 +43,9 @@ An AI-powered application that predicts signs of depression from user input usin
 
 ## 📫 Contact
 
-[📧 Email](mailto:nurrizkyaj.home@gmail.com)  
-[🔗 LinkedIn](https://linkedin.com/in/nurrizkyaj)
+[![Email](https://img.shields.io/badge/Email-nurrizkyaj.home@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurrizkyaj.home@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nurrizkyaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nurrizkyaj)
+
 
 ---
 
