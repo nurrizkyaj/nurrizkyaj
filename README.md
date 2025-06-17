@@ -41,5 +41,5 @@ An AI-powered application that predicts signs of depression from user input usin
 ---
 
 
-**🇮🇩 Indonesia & 🇺🇸 English**  
+**🇮🇩 & 🇺🇸**  
 _I'm open to collaborations, projects, and professional opportunities._
